@@ -22,7 +22,7 @@
   // $contact->smtp = array(
   //   'host' => 'smtp.gmail.com',
   //   'username' => 'marsha.j.anderson71@gmail.com',
-  //   'password' => 'dMc11&aMc17',
+  //   'password' => 'pass',
   //   'port' => '587'
   // );
 
